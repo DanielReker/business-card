@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="android_logo_description">Android logo</string>
+    <string name="full_name_text">Фомин Александр</string>
+    <string name="title_text">Студент ИжГТУ, 3-й курс</string>
+    <string name="phone_number">+8 (800) 555 35-35</string>
+    <string name="email">danielreker2@gmail.com</string>
+    <string name="social_media_handle">\@danielreker</string>
+    <string name="phone_icon_description">Phone icon</string>
+    <string name="share_icon_description">Share icon</string>
+    <string name="email_icon_description">Email icon</string>
 </resources>
